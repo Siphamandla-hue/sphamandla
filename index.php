@@ -141,6 +141,7 @@ alert('User already registered. Please try again');
                                                 </div>
                                                 <div class="form-group">
                                                     <button type="submit" name="login" id="login" class="btn btn-primary btn-block">Sign in</button>
+													 <button type="submit" name="login" id="login" class="btn btn-primary btn-block">Sign in</button>
                                                 </div>
                                             </form>
                                         </div>
